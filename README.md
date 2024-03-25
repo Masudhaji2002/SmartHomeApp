@@ -17,8 +17,8 @@
 
 ## Демонстрация
 
-![Экран Входа](https://github.com/Masudhaji2002/Seminar1Dz/issues/1)
-![Экран Регистрации](https://github.com/Masudhaji2002/Seminar1Dz/issues/2#issue-2206779505)
+Скриншоты экранов
+![Скрины](https://github.com/Masudhaji2002/SmartHomeApp/issues/1#issue-2206790487)
 
 ## Контактная информация
 
